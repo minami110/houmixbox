@@ -1,0 +1,3 @@
+[submodule "pigment-mixing"]
+	path = pigment-mixing
+	url = https://github.com/scrtwpns/pigment-mixing.git
